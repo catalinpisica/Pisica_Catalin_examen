@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pisica_Catalin_examen", "Pisica_Catalin_examen.csproj", "{32FACEFA-F345-4C4C-A606-98B72129140C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BazaDateModel", "..\BazaDateModel\BazaDateModel.csproj", "{F721DD5E-D38E-4916-B9D4-7E3758BF5C8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32FACEFA-F345-4C4C-A606-98B72129140C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FACEFA-F345-4C4C-A606-98B72129140C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FACEFA-F345-4C4C-A606-98B72129140C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FACEFA-F345-4C4C-A606-98B72129140C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F721DD5E-D38E-4916-B9D4-7E3758BF5C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F721DD5E-D38E-4916-B9D4-7E3758BF5C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F721DD5E-D38E-4916-B9D4-7E3758BF5C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F721DD5E-D38E-4916-B9D4-7E3758BF5C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C94723-2CB4-4382-AEAE-12B22DCDAB06}
+	EndGlobalSection
+EndGlobal
